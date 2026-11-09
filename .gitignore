@@ -1,4 +1,4 @@
-# Allow-list: only the submission PDF, the editable Word file, the run notebooks and the lab screenshots are tracked.
+# Allow-list: only the submission (PDF + zip), the editable Word file, the run notebooks and the lab screenshots are tracked.
 /*
 !/.gitignore
 !/submission/
